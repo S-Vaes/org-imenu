@@ -5,7 +5,7 @@
 ;; Maintainer: Nicolas P. Rougier <Nicolas.Rougier@inria.fr>
 ;; URL: https://github.com/rougier/org-imenu
 ;; Version: 0.1
-;; Package-Requires: ((emacs "27.1") ("imenu-list"))
+;; Package-Requires: ((emacs "27.1") (imenu-list))
 ;; Keywords: convenience
 
 ;; This file is not part of GNU Emacs.
